@@ -1,4 +1,4 @@
-# reverseproxyconfigfiles
+# reverse proxy config files
 
 Contains configuration files to enable a reverse proxy on dev machine.
 
